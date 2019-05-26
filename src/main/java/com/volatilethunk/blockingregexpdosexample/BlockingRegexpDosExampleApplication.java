@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class BlockingRegexpDosExampleApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(BlockingRegexpDosExampleApplication.class, args);
-    }
+  public static void main(String[] args) {
+    SpringApplication.run(BlockingRegexpDosExampleApplication.class, args);
+  }
 }

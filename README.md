@@ -20,3 +20,6 @@ cause high CPU utilisation until complete.
 
 More information on this category of attack can be found [from the OWASP Project](
 https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS).
+
+The code in this repository is automatically formatted with
+[google-java-format](https://github.com/google/google-java-format).

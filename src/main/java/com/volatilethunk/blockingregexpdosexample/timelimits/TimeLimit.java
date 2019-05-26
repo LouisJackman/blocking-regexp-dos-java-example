@@ -4,15 +4,15 @@ import java.time.Duration;
 
 public abstract class TimeLimit {
 
-    private final Duration limit;
+  private final Duration limit;
 
-    public abstract TimeLimitBound getBound();
+  public abstract TimeLimitBound getBound();
 
-    TimeLimit(Duration limit) {
-        this.limit = limit;
-    }
+  TimeLimit(Duration limit) {
+    this.limit = limit;
+  }
 
-    public Duration getLimit() {
-        return limit;
-    }
+  public Duration getLimit() {
+    return limit;
+  }
 }

@@ -24,9 +24,11 @@ https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS).
 The code in this repository is automatically formatted with
 [google-java-format](https://github.com/google/google-java-format).
 
-This repository is hosted [on
+This repository is currently hosted [on
 GitLab.com](https://gitlab.com/louis.jackman/blocking-regexp-dos-java-example).
-If you're seeing this on GitHub, you're on the official GitHub mirror. [Go to
-GitLab](https://gitlab.com/louis.jackman/blocking-regexp-dos-java-example) to
-contribute.
+Official mirrors exist on
+[SourceHut](https://git.sr.ht/~louisjackman/blocking-regexp-dos-java-example)
+and [GitHub](https://github.com/LouisJackman/blocking-regexp-dos-java-example).
+At the moment, GitLab is still the official hub for contributions such as PRs
+and issues.
 
